@@ -1,0 +1,8 @@
+{
+  "goerli": {
+    "LendingContract": {
+      "address": "0x41de4383c1f4ACedf6660446D013c5181cdF6399",
+      "startBlock": 0
+    }
+  }
+}
