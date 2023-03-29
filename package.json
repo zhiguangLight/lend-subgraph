@@ -2,7 +2,7 @@
   "name": "lend-subgraph",
   "license": "UNLICENSED",
   "scripts": {
-    "codegen": "graph codegen",
+    "codegen": "graph codegen --output-dir ./generated",
     "build": "graph build",
     "deploy": "graph deploy --node https://api.studio.thegraph.com/deploy/ lend-subgraph",
     "create-local": "graph create --node http://localhost:8020/ lend-subgraph",
